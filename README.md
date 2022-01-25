@@ -24,7 +24,7 @@ This project uses descriptive analysis, including description of trends over gen
 Most movies are produced at under 100,000,000$ and Although movies that have been produced for more money earned more money the ratio in not better
 
 
-![Gross_Profits_vs_Investment](./graphs/Gross Profits vs Investment.png)
+![Gross_Profits_vs_Investment](./graphs/Gross_Profits_vs_Investment.png)
 
 looking at the mean of the value per investment for each rating score  we can see no obvious trend, each column is not related to the others. 
 ![Rating_per_value_per_investment.png](./graphs/Rating_per_value_per_investment.png)
