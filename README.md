@@ -52,8 +52,9 @@ For additional info, contact Guy Muchnik at [guymu15@gmail.com](mailto:guymu15@g
 
 ├── zippedData
 ├── graphs
-├── __init__.py
+├── CONTRIBUTING.md
 ├── LICENSE.md
 ├── Movie performance analysis.pdf
-└── student.ipynb
+├── student.ipynb
+└── README.md
 ```
