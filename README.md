@@ -41,7 +41,7 @@ This analysis leads to three recommendations for improving investment order for 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./Movie performance analysis.pdf).
+See the full analysis in the [Jupyter Notebook](./Movie_Performance_Analysis.ipynb) or review this [presentation](./Movie performance analysis.pdf).
 
 For additional info, contact Guy Muchnik at [guymu15@gmail.com](mailto:guymu15@gmail.com)
 
